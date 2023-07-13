@@ -6,7 +6,7 @@ function Footer() {
       <header className="footer">
      
       
-        <h4>Copyright 2004-2023 @ HumanRoad, tous droits réservés</h4>
+        <h4>Copyright 2023 @ Hatim OuledMoussa, tous droits réservés</h4>
       </header>
       
     </div>
